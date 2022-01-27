@@ -1,0 +1,15 @@
+{
+    "products":[
+    {"id":1,"pname":"Black Forest","price":800,"quantity":4,"images":"images/cake1.jpg"},
+    {"id":2,"pname":"Orange Cake","price":500,"quantity":8,"images":"images/cake2.jpg"},
+    {"id":3,"pname":"Chocalate+Strawberry Cake","price":750,"quantity":6,"images":"images/cake3.jpg"},
+    {"id":4,"pname":"Gems Cake","price":700,"quantity":5,"images":"images/cake4.jpg"},
+    {"id":5,"pname":"Chocalate Cake","price":600,"quantity":9,"images":"images/cake5.jpg"},
+    {"id":6,"pname":"Chocalate Nuts Cake","price":1200,"quantity":3,"images":"images/cake6.jpg"},
+    {"id":7,"pname":"White Forest","price":750,"quantity":8,"images":"images/cake7.jpg"},
+    {"id":8,"pname":"White Rose Cake","price":950,"quantity":4,"images":"images/cake8.jpg"},
+    {"id":9,"pname":"Chocalate Cherry Cake","price":900,"quantity":6,"images":"images/cake9.jpg"},
+    {"id":10,"pname":"ButterScotch Cake","price":950,"quantity":8,"images":"images/cake10.jpg"}
+    ]
+
+}
